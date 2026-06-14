@@ -1,2 +1,28 @@
-# e0085d2435add2fc-architecture-goal-setting-and
-A comprehensive goal setting and okr framework template designed specifically for the architecture industry.
+# Architecture Goal Setting and OKR Framework Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x2cN5eTt3o8g88fQ8cZf0w)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x2cN5eTt3o8g88fQ8cZf0w)
+
